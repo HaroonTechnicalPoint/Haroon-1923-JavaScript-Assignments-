@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #1D3557;
+    
+}
+footer{
+    background-color: #1D3557;
+    
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main{
+    flex: 1 0 auto;
+    background-color: #F0FAEF;
+}
